@@ -1,0 +1,25 @@
+table,td,th {
+  border: 1px solid black;
+}
+
+#Name{
+  text-transform: capitalize;
+}
+
+.Pass{
+  font-weight: bold;
+}
+
+.Fail{
+  color: red;
+  font-weight: bold;
+}
+
+.Topper{
+  color: green;
+  font-weight: bold;
+}
+
+th{
+  font-style: italic;
+}
